@@ -1,0 +1,7 @@
+Mustafa Gultekin 150201012
+Mert Cihangiroglu 170201041
+Mehmet Ramazan Ektirir 150201021
+
+
+You should open the src file in java environment.When you run the CompareThreeAlgorithm
+which is our main class, you will be asked for inputs which are Burst time and Arrival time.Then you should enter those values and you will see the results on the console.The program will get that values as process1's values and you will be keep asked for another burst time and arrival time.This process allows you to keep adding new processes.By the way the quantum number for round robin algorithm is 2,You can see that in round Robbin class.You can see the result examples in our Report file.
